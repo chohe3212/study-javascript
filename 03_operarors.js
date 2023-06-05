@@ -220,4 +220,4 @@ for (const key in user_for){
 
 for (const key in user_for){
     console.log(user_for[key])
-} // 
+} // 각 key들의 값을 출력
